@@ -1,8 +1,8 @@
 <h1 align="center">Administración de bases de datos individual y en pareja</h1>
  
-<p align="center">
+<h2 align="center">
   Primer apartado (Individual)
-</p>
+</h2>
 
 ## ¿Qué tablas existen en la base de datos de prueb_modulo?
  
@@ -20,9 +20,9 @@
   La base de datos trata o tiene relación con lo educativo, ya que en esta tiene como objetivo registrar nuevos estudiantes.
 
 ---
-<p align="center">
+<h2 align="center">
   Segundo apartado (En Pareja)
-</p>
+</h2>
 
 ## ¿Qué tablas existen en la base de datos de Biblioteca Miguel de Cervantes?
  
