@@ -13,13 +13,13 @@
 - notas.
 
 
----
+
  
 ## ¿De qué trata la BD?
 <p align="center">
   La base de datos trata o tiene relación con lo educativo, ya que en esta tiene como objetivo registrar nuevos estudiantes.
 
----
+
 <h2 align="center">
   Segundo apartado (En Pareja)
 </h2>
@@ -31,13 +31,13 @@
 - usuarios.
 
 
----
+
  
 ## ¿De qué trata la BD?
 <p align="center">
   La base de datos trata de una biblioteca donde se registan libros y usuarios, junto de registrar prestamos de los libros por los usuarios
 
----
+
 
 ## Herramienta utilizada 
 
@@ -47,7 +47,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" />
  
----
+
  
 <p align="center">
   Demole un buen uso a la BD
